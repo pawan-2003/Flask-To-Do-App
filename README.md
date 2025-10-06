@@ -10,9 +10,11 @@
 ### App Screenshots
 
 **Light Mode:**
-![Light Mode](images/Screenshot 2.png)
+![Flask To-Do App Screenshot](images/screenshot 2.png)
 
 **Dark Mode:**
-![Dark Mode](images/Screenshot 1.png)
+![Flask To-Do App Screenshot](images/screenshot 1.png)
+
+
 
 
