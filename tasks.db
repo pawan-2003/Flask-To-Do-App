@@ -1,0 +1,19 @@
+from app import db, Task
+from datetime import datetime
+
+# Create database and tables
+db.create_all()
+
+# Sample tasks
+sample_tasks = [
+    Task(content="Buy groceries", completed=False, order=0),
+    Task(content="Finish Flask project", completed=False, order=1),
+    Task(content="Read a book", completed=True, order=2),
+    Task(content="Exercise for 30 minutes", completed=False, order=3)
+]
+
+# Add tasks to database
+db.session.add_all(sample_tasks)
+db.session.commit()
+
+print("Pre-filled database created successfully!")
