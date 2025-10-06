@@ -78,10 +78,10 @@ http://127.0.0.1:5000/
 ## 🖼 Screenshots
 
 **Home Page:**
-![Home Page](images/screenshot1.png)
+![Home Page](images/screenshot2.png)
 
 **Dark Mode:**
-![Dark Mode](images/screenshot2.png)
+![Dark Mode](images/screenshot1.png)
 
 ---
 
@@ -106,6 +106,7 @@ http://127.0.0.1:5000/
 
 Your Name
 [GitHub Profile](https://github.com/pawan-2003)
+
 
 
 
