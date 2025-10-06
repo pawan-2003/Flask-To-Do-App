@@ -7,5 +7,12 @@
 - SQLite database
 - Bootstrap UI for styling
 
-## Installation
-1. Clone repository:
+### App Screenshots
+
+**Light Mode:**
+![Light Mode](images/Screenshot 2.png)
+
+**Dark Mode:**
+![Dark Mode](images/Screenshot 1.png)
+
+
