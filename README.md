@@ -13,7 +13,7 @@ A simple, interactive To-Do web application built with **Flask**, **SQLite**, **
 * Drag-and-drop to reorder tasks
 * Dark mode toggle
 * Colorful, interactive UI using Bootstrap and custom CSS
-* Persistent task storage with SQLite
+* Persistent task storage with SQLite 
 
 ---
 
